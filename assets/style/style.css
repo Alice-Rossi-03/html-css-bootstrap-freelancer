@@ -79,3 +79,17 @@ header{
     border-radius: 10px;
     text-decoration: none;
 }
+
+.acquamarine{
+    text-decoration: none;
+    color: #19BC9B;
+}
+
+.gap_em{
+    gap: 0.5em;
+}
+
+footer{
+    background-color: #2C3E4F; 
+}
+
