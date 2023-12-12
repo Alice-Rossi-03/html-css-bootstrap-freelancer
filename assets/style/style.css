@@ -1,0 +1,52 @@
+
+.un_list li{
+    list-style-type: none;
+}
+
+.un_list li a{
+    text-transform: uppercase;
+    color: white;
+    text-decoration: none;
+}
+
+header{
+    background-color: #2C3E4F;
+}
+
+.color_white{
+    color: white;
+}
+
+.lil_font{
+    font-size: 0.6em;
+}
+
+.uppercase{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.bg_color_acquamarine{
+    background-color: #19BC9B;
+}
+
+.bg_color_white{
+    background-color: #FFFFFF;
+}
+
+.bg_color_gray{
+    background-color: #3B536D; 
+}
+
+.hr_white{
+    border: 2px solid white; 
+}
+
+.font_size_big{
+    font-size: 2em;
+}
+
+.font_size_small{
+    font-size: 0.8em;
+}
+
