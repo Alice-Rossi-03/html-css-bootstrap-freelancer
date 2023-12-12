@@ -69,3 +69,13 @@ header{
     border: 1px solid white;
     border-radius: 20px;
 }
+
+.padding_top{
+    padding-top: 6em;
+}
+
+.btn_acquamarine{
+    background-color: #19BC9B;
+    border-radius: 10px;
+    text-decoration: none;
+}
