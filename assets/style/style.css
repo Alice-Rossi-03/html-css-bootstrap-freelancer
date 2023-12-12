@@ -42,6 +42,10 @@ header{
     border: 2px solid white; 
 }
 
+.hr_black{
+    border: 2px solid black; 
+}
+
 .font_size_big{
     font-size: 2em;
 }
@@ -50,3 +54,18 @@ header{
     font-size: 0.8em;
 }
 
+.max_width_100{
+    max-width: 100%;
+    object-fit: contain
+}
+
+.border_radius{
+    border-radius: 10px;
+}
+
+.button_a{
+    color: white;
+    text-decoration: none;
+    border: 1px solid white;
+    border-radius: 20px;
+}
