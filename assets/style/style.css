@@ -80,6 +80,8 @@ header{
     background-color: #19BC9B;
     border-radius: 10px;
     text-decoration: none;
+    border: 0;
+    color: white; 
 }
 
 .acquamarine{
@@ -101,4 +103,13 @@ footer{
 
 .navbar-toggler{
     filter: invert(100%);
+}
+
+.max_height{
+    max-height: 40px;
+} 
+
+.border_bottom{
+    border: 0;
+    border-bottom: 1px solid gray;
 }
