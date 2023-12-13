@@ -40,10 +40,12 @@ header{
 
 .hr_white{
     border: 2px solid white; 
+    opacity: 1;
 }
 
 .hr_black{
     border: 2px solid black; 
+    opacity: 1;
 }
 
 .font_size_big{
